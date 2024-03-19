@@ -1,0 +1,4 @@
+database_host = localhost
+database_user = saba
+database_password = sabasaba2001
+api_key = your_api_key
